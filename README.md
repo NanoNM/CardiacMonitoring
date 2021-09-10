@@ -8,6 +8,7 @@ arduino 代码
 执行 main.py 会启动一个ui
 服务端在SocketModel里面 具体启动参数 看代码
 
+
 `void setup() {
   Serial.begin(9600);
   pinMode(11, INPUT);
